@@ -1,0 +1,14 @@
+{
+  "name": "course-store-nodejs",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "modesnero <modesnero@gmail.com>",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.3"
+  }
+}
