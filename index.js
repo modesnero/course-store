@@ -1,3 +1,3 @@
-const user = require('./user')
+const path = require('path')
 
-console.log(user.name)
+console.log(path.resolve(__dirname, './test', 'second.html'))
